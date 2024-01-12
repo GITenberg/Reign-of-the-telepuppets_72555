@@ -1,0 +1,40 @@
+_repo: Reign-of-the-telepuppets_72555
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Birmingham, Lloyd
+    alias: Birmingham, Lloyd P.
+    birthdate: 1924
+    deathdate: 2010
+    gutenberg_agent_id: '26433'
+    url: http://www.gutenberg.org/2009/agents/26433
+creator:
+  author:
+    agent_name: Galouye, Daniel F.
+    aliases:
+    - Galouye, Daniel Francis
+    - Galouje, Daniel F.
+    birthdate: 1920
+    deathdate: 1976
+    gutenberg_agent_id: '35969'
+    url: http://www.gutenberg.org/2009/agents/35969
+    wikipedia: https://en.wikipedia.org/wiki/Daniel_F._Galouye
+description: ''
+gutenberg_issued: '2023-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72555'
+language: en
+pgterms:marc905: 20231125091650galouye
+pgterms:marc906: '1963'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1963.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Reign of the telepuppets
+url: http://www.gutenberg.org/ebooks/72555
