@@ -8,6 +8,9 @@ contributor:
     deathdate: 2010
     gutenberg_agent_id: '26433'
     url: http://www.gutenberg.org/2009/agents/26433
+covers:
+- cover_type: archival
+  image_path: 72555-h/images/cover.jpg
 creator:
   author:
     agent_name: Galouye, Daniel F.
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35969
     wikipedia: https://en.wikipedia.org/wiki/Daniel_F._Galouye
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72555#Reign-of-the-telepuppets
 gutenberg_issued: '2023-12-30'
 gutenberg_type: Text
 identifiers:
